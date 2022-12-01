@@ -4,7 +4,7 @@
 
 ## Project Information
 
-### 개발 환경 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
+### 개발 환경 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/>
 - [Android Studio download](https://developer.android.com/studio?gclid=Cj0KCQiAm5ycBhCXARIsAPldzoWntjPyAb2LKfwy514tCVEh5KUJVWQWH0nYDbPbK6eLL1_p6Lb6kpQaAiYxEALw_wcB&gclsrc=aw.ds)
 - Android Studio Flutter 설치
 
@@ -13,3 +13,4 @@
   - <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> install
   
   
+## Project Result
